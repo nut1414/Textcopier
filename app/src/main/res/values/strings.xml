@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Textcopier</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="copy_page">Copy Page</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="copy_description">Copy txt file to your clipboard</string>
+    <string name="select_file">Select File</string>
+
+</resources>
